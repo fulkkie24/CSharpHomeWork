@@ -1,6 +1,6 @@
 ## Welcome
-                                              สวัสดีครับยินดีตอนรับเข้าสู่ GitHub ของผม
-                                                         เรื่อง CSharp
+สวัสดีครับยินดีตอนรับเข้าสู่ GitHub ของผม
+เรื่อง CSharp
                                                
   <img alt="CSn" src="https://github.com/fulkkie24/CSharpHomeWork/blob/master/marcuscode_XLgCGHrYlAfWpY2_1000.png">
 

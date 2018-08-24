@@ -34,7 +34,7 @@
 ## แนะนำเพื่อน คนรู้จัก หนังสือที่ชอบ หรือแหล่งเรียนรู้
  *  จะแนะนะแหล่งเรียนรู้ เกี่ยวกับ ~~Text~~ ใน Github ลูกเล่นพื้นๆสำหรับใครที่อย่างจะลอง [คลิ๊ก](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 ### รูปนี้กดได้นะ มีเทคนิคการทำรูปนี้ด้วยลองกดที่รูปดูสิ
-[![](http://via.placeholder.com/720x480/814CCC/ffffff&text="%20CSharpHomeWork")](https://github.com/ozh/github-colors/blob/master/README.md)
+[![](ttps://github.com/fulkkie24/CSharpHomeWork/blob/master/Image/24775241_1448049001960001_4373445840658595687_n.jpg")](https://github.com/ozh/github-colors/blob/master/README.md)
 
 ## ส่วนเพื่อนี่แนะนำอะคนนี้เลยครับ เพื่อนชายในคณะสาขาเพียงคนเดียว
 <p align="center">

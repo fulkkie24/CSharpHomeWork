@@ -8,8 +8,7 @@
 ## _Nation University_ 
 
   
-  [![](https://github.com/fulkkie24/CSharpHomeWork/blob/master/Image/Nation_University_Logo.png)](https://github.com/ozh/github-colors/blob/master/README.md)
-
+  [![](https://github.com/fulkkie24/CSharpHomeWork/blob/master/Image/Nation_University_Logo.png)]
 
 **เรื่องที่ผมสนใจนั้นคือ**
 

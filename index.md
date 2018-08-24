@@ -7,7 +7,7 @@
 ### สถาบัน :school:
 ## _Nation University_ 
 <p align="center">
-  <img alt="NTU" src="https://github.com/fulkkie24/CSharpHomeWork/blob/master/Image/Nation_University_Logo.png">
+  <https://github.com/fulkkie24/CSharpHomeWork/blob/master/Image/Nation_University_Logo.png">
 </p>
 
 **เรื่องที่ผมสนใจนั้นคือ**

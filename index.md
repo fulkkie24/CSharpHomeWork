@@ -37,7 +37,7 @@
 
 ## ส่วนเพื่อนแนะนำอะคนนี้เลยครับ เพื่อนชายในคณะสาขาเพียงคนเดียวในตอนนี้เลย
 
-![Image](https://raw.github.com/fulkkie24/CSharpHomeWork/blob/master/Image/24775241_1448049001960001_4373445840658595687_n.jpg)]
+![Image](https://raw.githubusercontent.com/thaiall/programming-page/master/Nation_University_Logo.png)
 
 ### คนๆนี้หน่ะชื่อ Natthapat Kummoon ฮ่าๆ   :person_with_blond_hair:
 

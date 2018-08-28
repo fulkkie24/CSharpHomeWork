@@ -37,7 +37,7 @@
 
 ## ส่วนเพื่อนแนะนำอะคนนี้เลยครับ เพื่อนชายในคณะสาขาเพียงคนเดียวในตอนนี้เลย
 
-[![Image](https://github.com/fulkkie24/CSharpHomeWork/blob/master/Image/24775241_1448049001960001_4373445840658595687_n.jpg)]<a href="https://github.com/fulkkie24/CSharpHomeWork/blob/master/Image/24775241_1448049001960001_4373445840658595687_n.jpg"><img src="24775241_1448049001960001_4373445840658595687_n.jpg"></a>
+<a href="https://github.com/fulkkie24/CSharpHomeWork/blob/master/Image/24775241_1448049001960001_4373445840658595687_n.jpg"><img src="24775241_1448049001960001_4373445840658595687_n.jpg"></a>
 
 
 ### คนๆนี้หน่ะชื่อ Natthapat Kummoon ฮ่าๆ   :person_with_blond_hair:

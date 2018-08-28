@@ -42,6 +42,8 @@
 ### คนๆนี้หน่ะชื่อ Natthapat Kummoon ฮ่าๆ   :person_with_blond_hair:
 
 # ส่วนอันนี้ส่งงานคราาาาาบผม
+![Image](https://raw.githubusercontent.com/fulkkie24/CSharpHomeWork/master/Image/40332106_241014773264997_3045420477615964160_n.jpg)
+
 
 
 
